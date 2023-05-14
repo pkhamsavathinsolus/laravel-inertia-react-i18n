@@ -16,6 +16,8 @@
 
 > **Note:** this repo is a fork of [laravel-vue-i18n](https://github.com/xiCO2k/laravel-vue-i18n), renamed and port to React.
 
+> **Note 2:** this repo is a fork of [laravel-react-i18n](https://github.com/EugeneMeles/laravel-react-i18n), renamed and try to fix an issue.
+
 ## Installation
 
 With [npm](https://www.npmjs.com):
